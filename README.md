@@ -87,10 +87,3 @@ python client.py
 
 ## License
 This is a small demo — add your preferred license file if you intend to share.
-
----
-
-If you want, I can:
-- generate a more detailed README with setup using virtualenv, a requirements.txt, and example curl commands;
-- add an SSE-enabled version so the browser updates automatically when callbacks arrive;
-- provide Dockerfiles for each service. Which would you like next?
